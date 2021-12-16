@@ -1,0 +1,382 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 8,
+      "max": [
+        62.84379959106445,
+        316.1940002441406,
+        -97.92880249023438
+      ],
+      "min": [
+        -71.33290100097656,
+        212.61300659179688,
+        -224.1699981689453
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 10,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 96,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        126.93199920654297,
+        340.4320068359375,
+        -52.4379997253418
+      ],
+      "min": [
+        -141.4980010986328,
+        55.377201080322266,
+        -252.9239959716797
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 786480,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999896287918091,
+        0.999978244304657,
+        0.9999939799308777
+      ],
+      "min": [
+        -0.9999906420707703,
+        -0.9999986290931702,
+        -0.9999595284461975
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 40,
+      "componentType": 5125,
+      "count": 341880,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1572864,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        119.68599700927734,
+        330.49700927734375,
+        -52.4379997253418
+      ],
+      "min": [
+        -125.76300048828125,
+        98.37930297851563,
+        -244.93699645996094
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2359248,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999998807907104,
+        0.9999998807907104,
+        0.9999911189079285
+      ],
+      "min": [
+        -1.0,
+        -0.9999991059303284,
+        -0.9999924898147583
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1367560,
+      "componentType": 5125,
+      "count": 338955,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3145632,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        126.01499938964844,
+        328.03900146484375,
+        -52.608299255371094
+      ],
+      "min": [
+        -139.8939971923828,
+        156.3520050048828,
+        -250.60299682617188
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3932016,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999992251396179,
+        0.9999839067459106,
+        0.9999940991401672
+      ],
+      "min": [
+        -0.9999992251396179,
+        -0.9999966621398926,
+        -0.999973475933075
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2723380,
+      "componentType": 5125,
+      "count": 340155,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4718400,
+      "componentType": 5126,
+      "count": 50165,
+      "max": [
+        126.81400299072266,
+        340.4320068359375,
+        -52.48249816894531
+      ],
+      "min": [
+        -141.32400512695313,
+        174.21800231933594,
+        -252.95199584960938
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5320380,
+      "componentType": 5126,
+      "count": 50165,
+      "max": [
+        0.9999995231628418,
+        0.9999275207519531,
+        0.9999794960021973
+      ],
+      "min": [
+        -0.999999463558197,
+        -0.9999884963035583,
+        -0.9999792575836182
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4084000,
+      "componentType": 5125,
+      "count": 219234,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "sigogini (https://sketchfab.com/sigogini)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/lung-model-64774c6ee45c4a4c9ae758fae7ef39fb",
+      "title": "Lung Model"
+    },
+    "generator": "Sketchfab-10.79.1",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 4960936,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5922360,
+      "byteOffset": 4960936,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 10883296,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_clearcoat"
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_clearcoat": {
+          "clearcoatFactor": 1.0,
+          "clearcoatRoughnessFactor": 0.04
+        }
+      },
+      "name": "mtl1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.512241594656483,
+          0.17927642761800394,
+          0.17927642761800394,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0
+          },
+          "indices": 1,
+          "material": 0,
+          "mode": 1
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 3,
+            "POSITION": 2
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8
+          },
+          "indices": 10,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_4",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 12,
+            "POSITION": 11
+          },
+          "indices": 13,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.99925297498703,
+        0.0288599617779255,
+        -0.025701556354761117,
+        0.0,
+        0.023919405415654182,
+        -0.9842379689216614,
+        -0.17522412538528465,
+        0.0,
+        -0.030353408306837082,
+        0.1744784712791445,
+        -0.9841930270195007,
+        0.0,
+        -9.374014854431152,
+        68.94240570068366,
+        -313.6954650878906,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "Lungs_Optimized.obj"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 3,
+      "name": "Object_5"
+    },
+    {
+      "mesh": 4,
+      "name": "Object_6"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

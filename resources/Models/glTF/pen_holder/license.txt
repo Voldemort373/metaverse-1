@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pen Holder
+* source:	https://sketchfab.com/3d-models/pen-holder-a29fc7fea63c4689bf2b9b6f7b50eb44
+* author:	salsikash101 (https://sketchfab.com/salsikash101)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pen Holder" (https://sketchfab.com/3d-models/pen-holder-a29fc7fea63c4689bf2b9b6f7b50eb44) by salsikash101 (https://sketchfab.com/salsikash101) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

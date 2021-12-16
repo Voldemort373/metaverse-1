@@ -1,0 +1,11 @@
+Model Information:
+* title:	Open book
+* source:	https://sketchfab.com/3d-models/open-book-56f9e069836046d2a6b49c342e697cae
+* author:	Assignment2 (https://sketchfab.com/Assignment2)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Open book" (https://sketchfab.com/3d-models/open-book-56f9e069836046d2a6b49c342e697cae) by Assignment2 (https://sketchfab.com/Assignment2) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Antique Chandelier
+* source:	https://sketchfab.com/3d-models/antique-chandelier-c98d235a1df849388423b06f4e0a858c
+* author:	Amatsukast (https://sketchfab.com/Amatsukast)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Antique Chandelier" (https://sketchfab.com/3d-models/antique-chandelier-c98d235a1df849388423b06f4e0a858c) by Amatsukast (https://sketchfab.com/Amatsukast) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
